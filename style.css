@@ -4,7 +4,6 @@ body {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 12px;
   line-height: 15px;
-
 }
 
 #cabecalho {
@@ -15,4 +14,26 @@ body {
   padding: 15px;
   position: fixed;
   top: 0;
+}
+
+#minha_foto {
+  margin-top: 130px;
+}
+
+.lado-direito {
+  width: 40%;
+  float: right;
+  border: solid;
+  padding: 10px;
+}
+
+.lado-esquerdo {
+  width: 40%;
+  float: left;
+  border: solid;
+  padding: 10px;
+}
+
+#rodape {
+  margin-top: 180px;
 }
