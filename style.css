@@ -1,6 +1,10 @@
 body {
   background-color: rgb(253, 251, 251);
-  font-family: ;
+  color: blueviolet;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 12px;
+  line-height: 15px;
+
 }
 
 #cabecalho {
