@@ -1,7 +1,19 @@
-### Termos e acordos
+# project-fundamentals-lessons-learned
 
-Ao iniciar este projeto, você concorda com as diretrizes do Código de Ética e Conduta e do Manual da Pessoa Estudante da Trybe.
+## Meus Comentários
 
+Este foi um projeto individual feito na Trybe no Módulo de Fundamentos onde criei uma página, do zero, utilizando HTML e CSS.
+
+Aprendí neste Projeto a: 
+ - Utilizar _HTML_ para construir páginas WEB;
+ - Utilizar _HTML_ semântico para tornar sua página mais acessível e melhor ranqueada;
+ - Utilizar _CSS_ para adicionar estilo e posicionar elementos.
+
+---
+
+Aproveitamento: 100% de aprovação pelos avaliadores da Trybe.
+
+---
 # Boas vindas ao repositório do projeto Lições Aprendidas!
 
 Você já usa o GitHub diariamente para desenvolver os exercícios, certo? Agora, para desenvolver os projetos, você deverá seguir as instruções a seguir. Atenção a cada passo e, se tiver qualquer dúvida, nos envie por _Slack_! #vqv 🚀
